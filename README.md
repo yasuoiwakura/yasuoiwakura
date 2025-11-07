@@ -1,11 +1,13 @@
 ## Hi there, im Matt 👋
 
-**Gitea activity** 
-- 🔭 I currently consolidate & refactore projects on my gitea server and harddrive for github.
+- 🔭 I currently consolidate & refactore projects on my harddrive (& gitea server) for github.
+
+**Git activity** 
+- 🌱 I’m currently learning IaC and CI/CD and set up my private **Git**ea Server for this case. Here's the Heatmap:
 ![gitea activity](./assets/img/gitea-metrics.png)
 
 
-- 🌱 I’m currently learning IaC and CI/CD
+
 - 👯 I’m looking to collaborate on ETL projects
 <!--
 - 💬 Ask me about ...
