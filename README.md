@@ -3,10 +3,7 @@
 - 🔭 I currently consolidate & refactore projects on my harddrive (& gitea server) for github.
 
 **Git activity** 
-- 🌱 I’m currently learning IaC and CI/CD and set up my private **Git**ea Server for this case. Here's the Heatmap:
-![gitea activity](./assets/img/gitea-metrics.png)
-
-
+- 🌱 I’m currently upskilling AWS Cloud Infrastructure, IaC and CI/CD Pipelines in Gitea.
 
 - 👯 I’m looking to collaborate on ETL projects
 <!--
